@@ -1,0 +1,14 @@
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.Business.Interface.deps.json
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.Business.Interface.dll
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.Business.Interface.pdb
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.dll
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.Response.dll
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.pdb
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\bin\Debug\netcoreapp3.1\SmartTest.Response.pdb
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.csprojAssemblyReference.cache
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.AssemblyInfoInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.AssemblyInfo.cs
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.csproj.CoreCompileInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.csproj.CopyComplete
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.dll
+D:\SmartTest\SmartTest\SmartTest.Business.Interface\obj\Debug\netcoreapp3.1\SmartTest.Business.Interface.pdb

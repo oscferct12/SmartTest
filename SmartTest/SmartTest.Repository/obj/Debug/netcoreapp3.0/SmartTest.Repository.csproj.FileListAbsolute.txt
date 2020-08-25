@@ -1,0 +1,16 @@
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Repository.deps.json
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Repository.dll
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Repository.pdb
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.DataAccess.dll
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Repository.Interface.dll
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Response.dll
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Repository.Interface.pdb
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.DataAccess.pdb
+D:\SmartTest\SmartTest\SmartTest.Repository\bin\Debug\netcoreapp3.0\SmartTest.Response.pdb
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.csprojAssemblyReference.cache
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.AssemblyInfoInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.AssemblyInfo.cs
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.csproj.CoreCompileInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.csproj.CopyComplete
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.dll
+D:\SmartTest\SmartTest\SmartTest.Repository\obj\Debug\netcoreapp3.0\SmartTest.Repository.pdb

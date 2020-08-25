@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartTest.Business.Interface\SmartTest.Business.Interface.csproj" />
+    <ProjectReference Include="..\SmartTest.Repository.Interface\SmartTest.Repository.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

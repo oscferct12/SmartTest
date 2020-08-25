@@ -1,0 +1,11 @@
+D:\SmartTest\SmartTest\SmartTest.DataAccess\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.deps.json
+D:\SmartTest\SmartTest\SmartTest.DataAccess\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.runtimeconfig.json
+D:\SmartTest\SmartTest\SmartTest.DataAccess\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.runtimeconfig.dev.json
+D:\SmartTest\SmartTest\SmartTest.DataAccess\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.dll
+D:\SmartTest\SmartTest\SmartTest.DataAccess\bin\Debug\netcoreapp3.1\SmartTest.DataAccess.pdb
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.AssemblyInfoInputs.cache
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.AssemblyInfo.cs
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.csproj.CoreCompileInputs.cache
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.dll
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.pdb
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.genruntimeconfig.cache
