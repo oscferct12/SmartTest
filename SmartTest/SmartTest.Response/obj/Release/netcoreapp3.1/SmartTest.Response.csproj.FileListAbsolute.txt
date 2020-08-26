@@ -1,0 +1,9 @@
+D:\SmartTest\SmartTest\SmartTest.Response\bin\Release\netcoreapp3.1\SmartTest.Response.deps.json
+D:\SmartTest\SmartTest\SmartTest.Response\bin\Release\netcoreapp3.1\SmartTest.Response.dll
+D:\SmartTest\SmartTest\SmartTest.Response\bin\Release\netcoreapp3.1\SmartTest.Response.pdb
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.csprojAssemblyReference.cache
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.AssemblyInfoInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.AssemblyInfo.cs
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.csproj.CoreCompileInputs.cache
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.dll
+D:\SmartTest\SmartTest\SmartTest.Response\obj\Release\netcoreapp3.1\SmartTest.Response.pdb

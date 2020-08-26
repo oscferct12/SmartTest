@@ -9,3 +9,4 @@ D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.Da
 D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.dll
 D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.pdb
 D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.genruntimeconfig.cache
+D:\SmartTest\SmartTest\SmartTest.DataAccess\obj\Debug\netcoreapp3.1\SmartTest.DataAccess.csprojAssemblyReference.cache

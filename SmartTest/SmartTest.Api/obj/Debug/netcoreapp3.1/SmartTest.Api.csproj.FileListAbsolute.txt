@@ -71,3 +71,6 @@ D:\SmartTest\SmartTest\SmartTest.Api\obj\Debug\netcoreapp3.1\staticwebassets\Sma
 D:\SmartTest\SmartTest\SmartTest.Api\obj\Debug\netcoreapp3.1\SmartTest.Api.dll
 D:\SmartTest\SmartTest\SmartTest.Api\obj\Debug\netcoreapp3.1\SmartTest.Api.pdb
 D:\SmartTest\SmartTest\SmartTest.Api\obj\Debug\netcoreapp3.1\SmartTest.Api.genruntimeconfig.cache
+D:\SmartTest\SmartTest\SmartTest.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\SmartTest\SmartTest\SmartTest.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.smartestcorrea - Web Deploy.json
+D:\SmartTest\SmartTest\SmartTest.Api\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
